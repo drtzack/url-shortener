@@ -27,9 +27,9 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.*",
-        "illuminate/config": "5.*",
-        "symfony/finder": "~2.7",
+        "illuminate/support": "5.2.*",
+        "illuminate/config": "5.2.*",
+        "symfony/finder": "~3.0",
         "Vinelab/http": "1.2.*"
     },
     "require-dev": {
